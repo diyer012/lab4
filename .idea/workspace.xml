@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="371be622-e440-40d7-a20c-7ae9dbd0bf74" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/dhruva.ejs" afterPath="$PROJECT_DIR$/views/dhruva.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/khushi.ejs" afterPath="$PROJECT_DIR$/views/khushi.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/purvi.ejs" afterPath="$PROJECT_DIR$/views/purvi.ejs" />
-    </list>
+    <list default="true" id="371be622-e440-40d7-a20c-7ae9dbd0bf74" name="Default" comment="" />
     <ignored path="lab4.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -252,12 +246,12 @@
       <workItem from="1475178902041" duration="7206000" />
       <workItem from="1475218705757" duration="6916000" />
       <workItem from="1475258142235" duration="624000" />
-      <workItem from="1475467400593" duration="1444000" />
+      <workItem from="1475467400593" duration="1906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16190000" />
+    <option name="totallyTimeSpent" value="16652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
