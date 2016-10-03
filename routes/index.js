@@ -30,9 +30,5 @@ router.get('/khushi', function(req,res,next)
 {
   res.render('khushi');
 });
-/* Get Kitty page */
-router.get('/rose', function(req,res,next)
-{
-  res.render('rose');
-});
+
 module.exports = router;
